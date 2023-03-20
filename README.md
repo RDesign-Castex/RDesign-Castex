@@ -1,4 +1,5 @@
-![MasterHead](![rdesign](https://user-images.githubusercontent.com/113470690/226488969-eb9206ef-ff9e-4f7f-a675-3e1a7ebf4f11.gif)
+![rdesign](https://user-images.githubusercontent.com/113470690/226489068-aae2ba52-e77c-4f10-b4c1-9096e86c7462.png)
+
 
 <h1 align="center">👋 Hello, my name is René Kuhm</h1>
 <h3 align="center">FullStack Developer</h3>
