@@ -1,4 +1,6 @@
-![rdesign](https://user-images.githubusercontent.com/113470690/226489068-aae2ba52-e77c-4f10-b4c1-9096e86c7462.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/113470690/226489068-aae2ba52-e77c-4f10-b4c1-9096e86c7462.png" alt="rdesign">
+</p>
 
 
 <h1 align="center">👋 Hello, my name is René Kuhm</h1>
