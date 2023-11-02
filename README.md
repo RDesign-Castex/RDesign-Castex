@@ -23,36 +23,16 @@ Actualmente estoy aprendiendo backend para asi afirmar mis conosimientos en todo
 - Correo: [rdesigncastex@gmail.com]
 - LinkedIn: [[Enlace a tu perfil de LinkedIn](https://linkedin.com/in/rené-kuhm-1aa88818a/)]
 - Twitter: [[Enlace a tu Twitter](https://twitter.com/REPARO22?t=KEWGSQ-go_3J2obhVOKsdA&s=03)]
-- Portafolio: [Enlace a tu portafolio personal si lo tienes]
+
 
 <h2 color="#FF7F50" align="center">Mis últimos proyectos</h2>
 
 Aquí puedes listar algunos de tus proyectos más recientes o más destacados. Para cada proyecto, puedes incluir:
 
-- Nombre del proyecto
-- Descripción del proyecto
-- Tecnologías utilizadas
-- Enlace al código fuente y/o demo en vivo
-
-<h3 color="#FF7F50" align="center">Proyecto 1</h3>
-
-_Descripción del proyecto_
-
-Tecnologías utilizadas: 
-
-Enlace al código fuente: 
-
-Enlace a la demo en vivo: 
-
-<h3 color="#FF7F50" align="center">Proyecto 2</h3>
-
-_Descripción del proyecto_
-
-Tecnologías utilizadas: 
-
-Enlace al código fuente: 
-
-Enlace a la demo en vivo: 
+- Tecnodespegue
+- Sitio web de trabajo 
+- Este sitio esta creado con Astro 
+- TecnoDespegue: [{Enlace a tecnodespegue}(https://tecnodespegue.com)]
 
 <h3 color="#FF7F50" align="left">Connect with me:</h3>
 <p align="left">
