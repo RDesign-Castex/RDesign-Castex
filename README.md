@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113470690/226489068-aae2ba52-e77c-4f10-b4c1-9096e86c7462.png" alt="rdesign">
-</p>
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">René Kuhm</a> 👋</h1>
+</div>
 
 
 <h1 color="#0000FF" align="center">Hola, soy [René Kuhm] 👋</h1>
